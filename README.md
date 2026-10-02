@@ -48,3 +48,7 @@ For a large collection, give the AI `INDEX.md` first, then point it to individua
 - Some older PDFs embed formulas as images. They cannot be extracted, and `INDEX.md` flags these papers.
 - No OCR. Scanned PDFs are flagged with "very little text".
 - Token counts are estimated as characters / 4.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
